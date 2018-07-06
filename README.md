@@ -31,7 +31,7 @@ Implement model that can classify specific vehicle by increasing number of data 
 - We tried to use various descriptors, but It was hard to apply other descriptor for extracting features except '(Hu) Moment invariant' 
 - In this case, we use 'Decision Tree' for classification model.
 - This method need specific image.<br>
->>> Convert RGB to grayscale and make it to binary image to apply 'hu moment' function.
+> Convert RGB to grayscale and make it to binary image to apply 'hu moment' function.
 (background should be black and grill should be white to get the shape parameter of it from 'hu moment' function)
 
 ### 2. Deep Learning
