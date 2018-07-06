@@ -21,4 +21,4 @@ Implement model that can classify specific vehicle by increasing number of data 
 ### 2. Deep Learning
 - Trouble with selecting descriptors, we moved on to Deep Learning, CNN.
 - We chose 'Keras' for CNN tools because it Allows for easy and fast prototyping.
-<a href = 'https://keras.io/'>
+<a href = 'https://keras.io/'></a>
