@@ -3,7 +3,10 @@
 
 ## Goal
 Implement model that can classify specific vehicle by increasing number of data through image distortion we generated.
-
+<br>
+<br>
+<br>
+<br>
 ## Method<br>
 ### 1. Machine Learning
 - Extract particular feature from image and classify with Machine Learning
