@@ -19,5 +19,6 @@ Implement model that can classify specific vehicle by increasing number of data 
 - In this case, we use 'Decision Tree' for classification model.
 
 ### 2. Deep Learning
-- Trouble with selecting descriptors, we move on to Deep Learning.
-- 
+- Trouble with selecting descriptors, we moved on to Deep Learning, CNN.
+- We chose 'Keras' for CNN tools because it Allows for easy and fast prototyping.
+<a href = 'https://keras.io/'>
