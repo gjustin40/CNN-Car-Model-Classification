@@ -36,3 +36,5 @@ Implement model that can classify specific vehicle by increasing number of data 
 - Trouble with selecting descriptors, we moved on to Deep Learning, CNN.
 - We chose 'Keras' for CNN tools because it Allows for easy and fast prototyping. <a href = 'https://keras.io/'>Keras Documentation</a>
 - In addition, we made CNN model suitable for our datasets by changing the size of various hidden layer structures and filters.
+<hr>
+Sorry for the English.
