@@ -31,6 +31,8 @@ Implement model that can classify specific vehicle by increasing number of data 
 - This method need specific image.<br>
 > Convert RGB to grayscale and make it to binary image to apply 'hu moment' function.<br>
 (background should be black and grill should be white to get the shape parameter of it from 'hu moment' function)
+- Unfortunately, This method have failed. The reason was that image sizes were too big to train with 'Decision Tree'.
+- Furthermore, It was hard to select adequate descriptor for our high level images.
 
 ### 2. Deep Learning
 - Trouble with selecting descriptors, we moved on to Deep Learning, CNN.
